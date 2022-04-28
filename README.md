@@ -50,7 +50,7 @@ Data Analysis:
 - Correlation Analysis
 - RFM Cluster Analysis
 
-With Data Tools: 
+Data Tools: 
 - Excel/Spreadsheet (Pivot)
 - Google BigQuery
 - Python (Library: Numpy, Pandas, SciPy, Matplotlib, Seaborn)
