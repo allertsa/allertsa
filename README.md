@@ -25,7 +25,7 @@
 
 ✨Thank you for visiting my repository where I showcase my skills and track my progress pertaining to Data Analytics✨
 
----
+--
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,6 +40,29 @@
 </div>
 
 ---
+### 😎 What I do :
+
+Data Analysis: 
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistic
+- Cohort Analysis
+- A/B Test
+- Correlation Analysis
+- RFM Cluster Analysis
+
+With Data Tools: 
+- Excel/Spreadsheet (Pivot)
+- Google BigQuery
+- Python (Library: Numpy, Pandas, SciPy, Matplotlib, Seaborn)
+- SQL 
+- Google Colab 
+- Jupyter Notebook
+
+Visualization Tools: 
+- Tableau
+- Google Data Studio
+
+---
 
 ### 💡 Take a look on the dashboards I've created :
 <div id="badges" align="left">
@@ -48,6 +71,10 @@
   </a>
   </div>
 
+---
+<div id="footer" align="center">
+Please do not hesitate to say hello!
+  </div>
 <!---
 allertsa/allertsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
