@@ -38,6 +38,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlecolab.svg" title="GoogleColab" alt="GoogleColab" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 💡 Take a look on the dashboard I made:
+<div id="badges" align="left">
+  <a href="https://public.tableau.com/app/profile/astrella.decembrica">
+    <img src="https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau Badge"/>
+  </a>
+  </div>
+
 <!---
 allertsa/allertsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
