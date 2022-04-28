@@ -41,7 +41,7 @@
 
 ---
 
-### 💡 Take a look on the dashboard I made:
+### 💡 Take a look on the dashboards I've created :
 <div id="badges" align="left">
   <a href="https://public.tableau.com/app/profile/astrella.decembrica">
     <img src="https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau Badge"/>
