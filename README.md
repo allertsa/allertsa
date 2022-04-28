@@ -73,7 +73,7 @@ Visualization Tools:
 
 ---
 <div id="footer" align="center">
-Please do not hesitate to say hello!
+  <h2> Please do not hesitate to say hello! </h2>
   </div>
 <!---
 allertsa/allertsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
